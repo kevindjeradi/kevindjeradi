@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+Welcome to my GitHub profile!
+
+## 📊 My GitHub Stats
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindjeradi&show_icons=true&theme=radical)
 
 <!--
 **kevindjeradi/kevindjeradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
