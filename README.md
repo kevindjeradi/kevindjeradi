@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## 📫 Contacts
 
-- Email: [email@example.com](mailto:kevindjeradi@hotmail.fr)
+- Email: [kevindjeradi@hotmail.fr](mailto:kevindjeradi@hotmail.fr)
 - LinkedIn: [linkedin.com/in/kevindjeradi](https://fr.linkedin.com/in/kevin-djeradi-012067105)
 
 <!--
