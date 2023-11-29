@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindjeradi&langs_count=7&layout=donut-vertical&theme=radical&custom_title=Kevin%20Hamza%27s%20langages&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevindjeradi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&hide=prs,issues,contribs&theme=radical&custom_title=Kevin%20Hamza%27s%20commits%20for%20the%20last%20year&rank_icon=github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevindjeradi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&hide=prs,issues,contribs&theme=radical&custom_title=Kevin%20Hamza%27s%20commits%20for%20the%20last%20year&rank_icon=github" />
 </a>
 
 ## 📫 Contacts
