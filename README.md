@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 📊 My GitHub Stats
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindjeradi&show_icons=true&theme=radical)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindjeradi&hide=stars,prs)
 
 ## 📫 Contacts
 
