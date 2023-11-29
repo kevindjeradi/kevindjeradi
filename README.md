@@ -6,6 +6,11 @@ Welcome to my GitHub profile!
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindjeradi&show_icons=true&theme=radical)
 
+## 📫 Contacts
+
+- Email: [email@example.com](mailto:kevindjeradi@hotmail.fr)
+- LinkedIn: [linkedin.com/in/kevindjeradi](https://fr.linkedin.com/in/kevin-djeradi-012067105)
+
 <!--
 **kevindjeradi/kevindjeradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
