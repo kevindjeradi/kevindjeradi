@@ -4,37 +4,37 @@
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://flutter.dev" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://www.wallstreetmobileapps.com/assets/images/services/banner-gif/fluuter-app.gif" height="42" style="display: block;"/>
+      <img align="left" src="https://www.wallstreetmobileapps.com/assets/images/services/banner-gif/fluuter-app.gif" height="50" style="display: block;"/>
     </a>
     <a href="https://vuejs.org" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="42" style="display: block;"/>
+      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="50" style="display: block;"/>
     </a>
     <a href="https://laravel.com" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://assets-v2.lottiefiles.com/a/639784ea-1171-11ee-aea8-735bf223615c/IyZGK6hpdA.gif" height="42" style="display: block;"/>
+      <img align="left" src="https://assets-v2.lottiefiles.com/a/639784ea-1171-11ee-aea8-735bf223615c/IyZGK6hpdA.gif" height="50" style="display: block;"/>
     </a>
     <a href="https://kotlinlang.org" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://img-blog.csdnimg.cn/img_convert/273cc3a18ff3e383ffb9a246aeb96fb5.gif" height="42" style="display: block;"/>
+      <img align="left" src="https://img-blog.csdnimg.cn/img_convert/273cc3a18ff3e383ffb9a246aeb96fb5.gif" height="50" style="display: block;"/>
     </a>
     <a href="https://www.php.net" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://fijiweb.ru/img/develop/php.gif" height="42" style="display: block;"/>
+      <img align="left" src="https://fijiweb.ru/img/develop/php.gif" height="50" style="display: block;"/>
     </a>
     <a href="https://nodejs.org" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://onepatch.com/wp-content/uploads/2022/03/NODEJS_CIRCLE.gif" height="42" style="display: block;"/>
+      <img align="left" src="https://onepatch.com/wp-content/uploads/2022/03/NODEJS_CIRCLE.gif" height="50" style="display: block;"/>
     </a>
     <a href="https://reactjs.org" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://devtechnosys.com/insights/wp-content/uploads/2023/01/giphy.gif" height="42" style="display: block;"/>
+      <img align="left" src="https://devtechnosys.com/insights/wp-content/uploads/2023/01/giphy.gif" height="50" style="display: block;"/>
     </a>
     <a href="https://www.javascript.com" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="42" style="display: block;"/>
+      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="50" style="display: block;"/>
     </a>
     <a href="https://www.mongodb.com" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="42" style="display: block;"/>
+      <img align="left" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="50" style="display: block;"/>
     </a>
     <a href="https://html.com" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height="42" style="display: block;"/>
+      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height="50" style="display: block;"/>
     </a>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height="42" style="display: block;"/>
+      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height="50" style="display: block;"/>
     </a>
   </div>
 <br><br>
