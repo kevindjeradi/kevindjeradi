@@ -2,39 +2,39 @@
 
 ## My skills
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://flutter.dev" style="text-decoration: none; display: inline-block;">
-    <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" height="50" style="display: block;"/>
+    <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://vuejs.org" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://laravel.com" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://kotlinlang.org" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://www.php.net" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://nodejs.org" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-2560px-Node.js_logo.svg.png" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-2560px-Node.js_logo.svg.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://reactjs.org" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://www.javascript.com" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://www.mongodb.com" style="text-decoration: none; display: inline-block;">
-    <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="50" style="display: block;"/>
+    <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://html.com" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height="42" style="display: block; vertical-align: middle;"/>
   </a>
 </div>
 
