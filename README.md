@@ -13,7 +13,7 @@
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="42" style="display: block;"/>
     </a>
     <a href="https://kotlinlang.org" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" height="42" style="display: block;"/>
+      <img align="left" src="https://img-blog.csdnimg.cn/img_convert/273cc3a18ff3e383ffb9a246aeb96fb5.gif" height="42" style="display: block;"/>
     </a>
     <a href="https://www.php.net" target="_blank" style="text-decoration: none; display: inline-block;">
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="42" style="display: block;"/>
