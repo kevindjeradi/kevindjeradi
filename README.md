@@ -16,6 +16,9 @@ Welcome to my GitHub profile!
   </a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📫 Contacts
 
 - Email: [kevindjeradi@hotmail.fr](mailto:kevindjeradi@hotmail.fr)
