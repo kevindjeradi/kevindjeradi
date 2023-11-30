@@ -1,8 +1,7 @@
 # Bonjour 👋
 
 ## My skills
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<p align="center">
   <a href="https://flutter.dev" target="_blank" style="text-decoration: none; display: inline-block;">
     <img align="left" src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" height="50" style="display: block;"/>
   </a>
@@ -33,10 +32,10 @@
   <a href="https://html.com" target="_blank" style="text-decoration: none; display: inline-block;">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height="50" style="display: block;"/>
   </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" style="text-decoration: none; ">
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" style="text-decoration: none; display: inline-block;">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height="50" style="display: block;"/>
   </a>
-</div>
+</p>
 
 ## My Stats
 
