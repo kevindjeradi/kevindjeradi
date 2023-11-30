@@ -13,7 +13,7 @@
       <img align="left" src="https://assets-v2.lottiefiles.com/a/639784ea-1171-11ee-aea8-735bf223615c/IyZGK6hpdA.gif" height="42" style="display: block;"/>
     </a>
     <a href="https://kotlinlang.org" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" height="42" style="display: block;"/>
+      <img align="left" src="https://img-blog.csdnimg.cn/img_convert/273cc3a18ff3e383ffb9a246aeb96fb5.gif" height="42" style="display: block;"/>
     </a>
     <a href="https://www.php.net" target="_blank" style="text-decoration: none; display: inline-block;">
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="42" style="display: block;"/>
@@ -22,7 +22,7 @@
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-2560px-Node.js_logo.svg.png" height="42" style="display: block;"/>
     </a>
     <a href="https://reactjs.org" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="42" style="display: block;"/>
+      <img align="left" src="https://devtechnosys.com/insights/wp-content/uploads/2023/01/giphy.gif" height="42" style="display: block;"/>
     </a>
     <a href="https://www.javascript.com" target="_blank" style="text-decoration: none; display: inline-block;">
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="42" style="display: block;"/>
