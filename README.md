@@ -1,5 +1,45 @@
 # Hi there 👋
 
+## My skills
+
+<div style="display: flex">
+  <a href="https://flutter.dev">
+    <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" height="42" />
+  </a>
+  <a href="https://vuejs.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="42" />
+  </a>
+  <a href="https://laravel.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="42" />
+  </a>
+  <a href="https://kotlinlang.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" height="42" />
+  </a>
+  <a href="https://www.php.net">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="42" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-2560px-Node.js_logo.svg.png" height="42" />
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="42" />
+  </a>
+  <a href="https://www.javascript.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="42" />
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="42" />
+  </a>
+  <a href="https://html.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height="42" />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height="42" />
+  </a>
+</div>
+
+## My repos
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=kevindjeradi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&hide=prs,issues,contribs&theme=radical&custom_title=Kevin%20Hamza%27s%20commits%20for%20the%20last%20year&rank_icon=github" />
@@ -12,7 +52,7 @@
   </a>
 </div>
 
-## 📫 Contacts
+## 📫 Contact me
 
 - Email: [kevindjeradi@hotmail.fr](mailto:kevindjeradi@hotmail.fr)
 - LinkedIn: [linkedin.com/in/kevindjeradi](https://fr.linkedin.com/in/kevin-djeradi-012067105)
