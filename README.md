@@ -2,7 +2,7 @@
 
 ## My skills
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://flutter.dev" style="text-decoration: none; display: inline-block;">
     <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" height="42" style="display: block;"/>
   </a>
