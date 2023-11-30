@@ -2,7 +2,7 @@
 
 ## My skills
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://flutter.dev" target="_blank" style="text-decoration: none; display: inline-block;">
       <img align="left" src="https://www.wallstreetmobileapps.com/assets/images/services/banner-gif/fluuter-app.gif" height="42" style="display: block;"/>
     </a>
