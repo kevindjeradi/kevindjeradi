@@ -19,7 +19,7 @@
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="42" style="display: block;"/>
     </a>
     <a href="https://nodejs.org" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://onepatch.com/wp-content/uploads/2022/03/NODEJS_CIRCLE.gif" height="42" style="display: block;"/>
+      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-2560px-Node.js_logo.svg.png" height="42" style="display: block;"/>
     </a>
     <a href="https://reactjs.org" target="_blank" style="text-decoration: none; display: inline-block;">
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="42" style="display: block;"/>
