@@ -1,4 +1,4 @@
-# Bonjour 👋
+# Bonjour 👋😄
 
 ## My skills
 
@@ -39,7 +39,7 @@
   </div>
 <br><br>
 
-## My Stats
+## My Github Stats
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kevindjeradi&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
@@ -57,7 +57,7 @@
   </a>
 </div>
 
-## 📫 Contact me
+## 📫 If you want to contact me 
 
 - Email: [kevindjeradi@hotmail.fr](mailto:kevindjeradi@hotmail.fr)
 - LinkedIn: [linkedin.com/in/kevindjeradi](https://fr.linkedin.com/in/kevin-djeradi-012067105)
