@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://flutter.dev" target="_blank" style="text-decoration: none; display: inline-block;">
-      <img align="left" src="https://www.wallstreetmobileapps.com/assets/images/services/banner-gif/fluuter-app.gif" height="45" width="45" style="display: block;"/>
+      <img align="left" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" height="45" width="45" style="display: block;"/>
     </a>
     <a href="https://vuejs.org" target="_blank" style="text-decoration: none; display: inline-block;">
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="45" width="45" style="display: block;"/>
